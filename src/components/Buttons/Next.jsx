@@ -13,7 +13,7 @@ class Next extends React.Component {
         <button 
           className="btn btn-primary float-right" 
           type="button" onClick={this._next}>
-        Next test
+        Next
         </button>        
       )
     }
